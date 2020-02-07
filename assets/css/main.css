@@ -2368,6 +2368,12 @@ input, select, textarea {
 		display: inline-block;
 		position: relative;
 	}
+        .center {
+                 display: block;
+                 margin-left: auto;
+                 margin-right: auto;
+                 width: 50%;
+       }
 
 		.image img {
 			border-radius: 8px;
